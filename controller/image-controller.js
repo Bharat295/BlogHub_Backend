@@ -1,7 +1,11 @@
 import grid from 'gridfs-stream'; // For fetching the image from DB
 import mongoose from 'mongoose';
-const url = 'http://localhost:8001';
+// const url = 'http://localhost:8001';
 
+import dotenv from 'dotenv';
+dotenv.config();
+
+const url = process.env.URL;
 let gfs, gridfsBucket;
 const conn = mongoose.connection;
 
