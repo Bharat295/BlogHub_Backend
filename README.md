@@ -1,4 +1,4 @@
-Frontend Repo - https://github.com/Bharat295/BlogHub-Frontend
+Frontend Repo - https://github.com/Bharat295/bloghubFrontend
 
 ![image](https://github.com/Bharat295/BlogHub_Backend/assets/85282925/2327e126-9eed-423c-8c8d-cb311c0f0eb8)
 ![image](https://github.com/Bharat295/BlogHub_Backend/assets/85282925/e92a241f-f6c3-4005-8ff0-6678d6f44893)
